@@ -1,12 +1,12 @@
 ::'@cscript //nologo //e:vbscript "%~f0" %* & @goto :eof
 
-' Loads LISP file to an executed AutoCAD/BricsCAD/IntelliCAD application.
-' Usage: autolisp [opions] filename
-
 ' This file is a batch and vbscript hybrid.
 ' To function properly it must contain SUB character (0x1A)
 ' right after the ::' characters in the first line.
 
+
+' Loads LISP file to an executed AutoCAD/BricsCAD/IntelliCAD application.
+' Usage: autolisp [opions] filename
 
 Const ha_AutoCAD = 1
 Const ha_BricsCAD = 2
