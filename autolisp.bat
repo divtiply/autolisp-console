@@ -50,9 +50,8 @@ Class AutoLisp
         Set Init = Me
     End Function
 
-    Private Sub Class_Initialize
-        'HostApp = ha_BricsCAD
-    End Sub
+    ' Private Sub Class_Initialize
+    ' End Sub
 
     Private Sub Class_Terminate
         Set VLApp = Nothing
