@@ -12,7 +12,7 @@ autolisp [opions] filename
 Show this help
 
 #### --acad
-Use AutoCAD as a host application
+Use AutoCAD as a host application (default)
 
 #### --bcad
 Use BricsCAD as a host application
