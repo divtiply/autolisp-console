@@ -1,6 +1,6 @@
 # AutoLISP console
 
-Loads LISP file to an executed AutoCAD/BricsCAD/IntelliCAD application.
+Loads LISP file into running AutoCAD/BricsCAD/IntelliCAD application.
 
 ## Usage
 
